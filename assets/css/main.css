@@ -1585,7 +1585,7 @@ take precedence the ones in this file. */
 
 	body {
 		background-color: #F7F6ED;
-		color: #444;
+		color: rgba(68, 68, 68, .88);
 	}
 
 	body, input, select, textarea {
@@ -1597,7 +1597,7 @@ take precedence the ones in this file. */
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -1770,6 +1770,8 @@ take precedence the ones in this file. */
 	hr {
 		border-bottom-color: rgba(144, 144, 144, 0.25);
 	}
+
+
 
 /* Box */
 
@@ -2272,6 +2274,8 @@ take precedence the ones in this file. */
 			}
 
 		}
+
+
 
 /* Image */
 
@@ -4527,6 +4531,7 @@ take precedence the ones in this file. */
 			}
 
 		}
+
 
 /* Footer */
 
